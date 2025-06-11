@@ -1,0 +1,120 @@
+2025-04-14 09:39:32 - SMS Response: Array
+(
+    [status] => success
+    [code] => 2000
+    [message] => messages sent successfully
+    [summary] => Array
+        (
+            [_id] => E8135BED-036C-46A5-AB2D-A50E41ABDA03
+            [message_id] => 20250414233553910112V2
+            [type] => API QUICK SMS
+            [total_sent] => 1
+            [contacts] => 1
+            [total_rejected] => 0
+            [numbers_sent] => Array
+                (
+                    [0] => 0553910112
+                )
+
+            [credit_used] => 1
+            [credit_left] => 279
+        )
+
+)
+
+2025-04-14 09:50:36 - SMS Response: Array
+(
+    [status] => success
+    [code] => 2000
+    [message] => messages sent successfully
+    [summary] => Array
+        (
+            [_id] => BF9E8406-7531-483C-84FD-4EF763D222D8
+            [message_id] => 20250414233553910112V2
+            [type] => API QUICK SMS
+            [total_sent] => 1
+            [contacts] => 1
+            [total_rejected] => 0
+            [numbers_sent] => Array
+                (
+                    [0] => 0553910112
+                )
+
+            [credit_used] => 2
+            [credit_left] => 277
+        )
+
+)
+
+2025-05-12 10:55:13 - SMS Response: Array
+(
+    [status] => success
+    [code] => 2000
+    [message] => messages sent successfully
+    [summary] => Array
+        (
+            [_id] => ADF9506A-3450-4B4D-9489-94C23A154C98
+            [message_id] => 20250512233553910112V2
+            [type] => API QUICK SMS
+            [total_sent] => 1
+            [contacts] => 1
+            [total_rejected] => 0
+            [numbers_sent] => Array
+                (
+                    [0] => 7412589632
+                )
+
+            [credit_used] => 0
+            [credit_left] => 277
+        )
+
+)
+
+2025-05-22 13:38:29 - SMS Response: Array
+(
+    [status] => success
+    [code] => 2000
+    [message] => messages sent successfully
+    [summary] => Array
+        (
+            [_id] => 91D334F4-62D3-4128-96C6-36668BC2F380
+            [message_id] => 20250522233553910112V2
+            [type] => API QUICK SMS
+            [total_sent] => 1
+            [contacts] => 1
+            [total_rejected] => 0
+            [numbers_sent] => Array
+                (
+                    [0] => 0541155234
+                )
+
+            [credit_used] => 1
+            [credit_left] => 276
+        )
+
+)
+
+2025-06-10 07:39:59 - SMS Response: Array
+(
+    [status] => success
+    [code] => 2000
+    [message] => messages sent successfully
+    [summary] => Array
+        (
+            [_id] => 8A21F140-8F54-4E63-92D3-56C714AF2605
+            [message_id] => 20250610233553910112V2
+            [type] => API QUICK SMS
+            [total_sent] => 1
+            [contacts] => 1
+            [total_rejected] => 0
+            [numbers_sent] => Array
+                (
+                    [0] => 0553910112
+                )
+
+            [credit_used] => 1
+            [credit_left] => 275
+        )
+
+)
+

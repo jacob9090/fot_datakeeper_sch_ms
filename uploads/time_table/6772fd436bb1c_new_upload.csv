@@ -1,0 +1,6 @@
+farm_id,client,district,village_city,total_farm_area,cocoa_farm_area,farm_units,name,surname,phone_number,ghana_card,gender,year_of_birth,ims_officer,remarks
+F001,ClientA,Accra,Accra New Town,10,8,2,John,Doe,1241234567,GH1234567890,Male,1980,Officer1,Good
+F002,ClientB,Kumasi,Ashanti New Town,15,12,3,Jane,Doe,2201234567,GH2345678901,Female,1990,Officer2,Needs Improvement
+F003,ClientC,Tamale,Tamale Central,8,6,1,David,Smith,3541234567,GH3456789012,Male,1975,Officer1,N/A
+F004,ClientD,Sekondi-Takoradi,Sekondi,12,10,2,Mary,Jones,4501234567,GH4567890123,Female,1985,Officer3,Good
+F005,ClientE,Ho,Hohoe,9,7,1,Michael,Brown,5271234567,GH5678901234,Male,1995,Officer2,N/A

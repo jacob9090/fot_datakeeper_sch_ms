@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<body>
+  <button onclick="testApi()">Test API</button>
+  <script>
+    function testApi() {
+      fetch('https://fruitoftek.com/school/cams-punchlog.php?stgid=129', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({
+          RealTime: {
+            PunchLog: {
+              UserId: "123",
+              LogTime: "2023-08-10 09:00:00",
+              Type: "CheckIn"
+            }
+          }
+        })
+      })
+      .then(response => response.json())
+      .then(data => console.log(data));
+    }
+  </script>
+</body>
+</html>
